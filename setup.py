@@ -206,6 +206,7 @@ else:
         author_email="mariano@chia.net",
         description="Chia proof of space plotting, proving, and verifying (wraps C++)",
         license="Apache License",
+        version="1.0.3-bpf",
         python_requires=">=3.7",
         long_description=open("README.md").read(),
         long_description_content_type="text/markdown",
